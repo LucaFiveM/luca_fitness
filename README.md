@@ -8,7 +8,6 @@ Installation:
 Go on my discord. 
 Discord: https://discord.gg/8ZbdAZV756 
 Preview: [https://www.youtube.com/watch?v=pOJvq-sjKk8](https://www.youtube.com/watch?v=MUKODDRW_Cs)
-
-![image]([https://user-images.githubusercontent.com/128648720/234284423-78fc99e6-9914-4b51-b410-095657714963.png](https://media.discordapp.net/attachments/974770325663412264/1142873984724127754/image.png?width=1193&height=671))
-![image]([https://user-images.githubusercontent.com/128648720/234284610-0ce728a3-0f8a-4f39-a43b-c70c40ee284e.png](https://media.discordapp.net/attachments/974770325663412264/1142874114344878100/image.png?width=506&height=669)https://media.discordapp.net/attachments/974770325663412264/1142874114344878100/image.png?width=506&height=669)
-![image]([[https://user-images.githubusercontent.com/128648720/234284610-0ce728a3-0f8a-4f39-a43b-c70c40ee284e.png](https://media.discordapp.net/attachments/974770325663412264/1142874114344878100/image.png?width=506&height=669)https://media.discordapp.net/attachments/974770325663412264/1142874114344878100/image.png?width=506&height=669](https://media.discordapp.net/attachments/974770325663412264/1142874157118390313/image.png?width=500&height=671)https://media.discordapp.net/attachments/974770325663412264/1142874157118390313/image.png?width=500&height=671)
+![image](https://github.com/LucaFiveM/luca_fitness/assets/128648720/9913188d-3288-4366-b033-fe93d3977273)
+![image](https://github.com/LucaFiveM/luca_fitness/assets/128648720/37b54d2e-0a12-4a5f-9ba9-5b52628d99ab)
+![image](https://github.com/LucaFiveM/luca_fitness/assets/128648720/9e8e0613-ed11-4c2f-bbc8-fcf51f035620)
